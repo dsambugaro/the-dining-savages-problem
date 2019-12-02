@@ -164,4 +164,4 @@ public class LargePot {
 
 ### Referências
 
-[[http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf|Downey, A.B.: The Little Book of Semaphores.]]
+[A.B.: The Little Book of Semaphores](http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf|Downey)
